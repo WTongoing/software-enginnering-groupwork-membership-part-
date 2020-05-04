@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <Member userNo="22222222">
+        <lastName>White</lastName>
+        <firstName>Tom</firstName>
+        <email>tom@qmul.ac.uk</email>
+        <phoneNo>12345678901</phoneNo>
+        <password>123456abc</password>
+        <stampNum>5</stampNum>
+        <sendReport>true</sendReport>
+    </Member>
+    <Member userNo="33333333">
+        <lastName>William</lastName>
+        <firstName>Lily</firstName>
+        <email>Lily@qmul.ac.uk</email>
+        <phoneNo>12345678902</phoneNo>
+        <password>654321abc</password>
+        <stampNum>3</stampNum>
+        <sendReport>true</sendReport>
+    </Member>
+    <Member userNo="44444444">
+        <lastName>William</lastName>
+        <firstName>Jane</firstName>
+        <email>Jane@qmul.ac.uk</email>
+        <phoneNo>12345678903</phoneNo>
+        <password>653421abc</password>
+        <stampNum>5</stampNum>
+        <sendReport>true</sendReport>
+    </Member>
+        </root>
